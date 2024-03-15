@@ -1,2 +1,2 @@
 # agenda
-Desenvolvido em Java 
+- Atividade de criação de uma agenda desenvolvido em Java 
